@@ -4,6 +4,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
+* [Quick Start] (#quick-start)
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
@@ -26,6 +27,17 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+
+## Quick Start
+
+1) Clone the project using git clone https://github.com/sla-onemap/reactnative_onemap_demo.git in terminal
+2) Change directory to reactnative_onemap_demo
+3) Run npm install
+4) Make sure mobile device and editor machine is connected to the same    network
+5) Install Expo app in mobile phone
+6) Run npm start
+7) Scan QRCode generated in terminal to run demo in mobile device
+
 
 ## Updating to New Releases
 
